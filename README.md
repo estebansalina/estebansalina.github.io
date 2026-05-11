@@ -1,5 +1,6 @@
+<img src="logo-sawan.png" width="300" alt="SAWAN GROUP Official Global Logo
 # Esteban Daniel Salina
-## Founder & CEO | SAWAN® GROUP
+# Founder & CEO | SAWAN® GROUP
 
 Bienvenido a la Terminal de Identidad Soberana. Aquí se gestionan las bases estratégicas para el desarrollo de infraestructura global y modelos de turismo regenerativo.
 
